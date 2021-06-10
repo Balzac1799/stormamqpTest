@@ -14,7 +14,7 @@ configparser==3.5.0
 cryptography==2.1.2
 decorator==4.2.1
 dicttoxml==1.7.4
-Django==1.11.6
+Django==2.2.24
 django-celery-beat==1.1.0
 django-celery-results==1.0.1
 django-cors-headers==2.1.0
