@@ -1,6 +1,6 @@
 amqp==2.2.2
 AMQPStorm==2.4.1
-arrow==0.12.1
+arrow==0.15.1
 asn1crypto==0.23.0
 astroid==1.6.1
 attrs==17.4.0
