@@ -16,7 +16,7 @@ decorator==4.2.1
 dicttoxml==1.7.4
 Django==1.11.6
 django-celery-beat==1.1.0
-django-celery-results==1.0.1
+django-celery-results==2.4.0
 django-cors-headers==2.1.0
 djangorestframework==3.7.1
 ephem==3.7.6.0
